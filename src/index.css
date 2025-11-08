@@ -1,0 +1,9 @@
+@import "tailwindcss";
+*{
+  scroll-behavior: smooth;
+}
+.divMain{
+  background-image: url(/src/assets/leafPattern-2.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
