@@ -5,7 +5,7 @@ export default function Nav() {
   return (
     <Disclosure
       as="nav"
-      className="bg-emerald-800 after:pointer-events-none after:absolute after:inset-x-0 after:bottom-0 after:h-px after:bg-white/10 justify-center items-center pt-4"
+      className="bg-emerald-800 after:pointer-events-none after:absolute after:inset-x-0 after:bottom-0 after:h-px after:bg-white/10 justify-center items-center pt-4 max-sm:hidden"
     >
       <div className=' w-auto h-auto flex justify-center items-center font-bold font-sans text-4xl text-center pb-4'>
           <h1 className=' text-white text-center'>Calculator</h1>
