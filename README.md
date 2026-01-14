@@ -8,3 +8,4 @@
   <li>Tailwind CSS</li>
 </ul>
 <a href="https://yashyadurai.github.io/Calculator" target="_blank"><p>Live Link</p></a>
+<p>Thanks for reading</p>
